@@ -1,0 +1,29 @@
+{
+  "name": "esling-config-js",
+  "version": "1.0.0",
+  "description": "My own eslint setting, which i use in js projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryinner/eslint-config-js.git"
+  },
+  "keywords": [
+    "eslint",
+    "javascript",
+    "ecmascript",
+    "lint",
+    "config"
+  ],
+  "author": "ryinner",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ryinner/eslint-config-js/issues"
+  },
+  "homepage": "https://github.com/ryinner/eslint-config-js#readme",
+  "devDependencies": {
+    "eslint": "^8.37.0"
+  }
+}
