@@ -1,5 +1,5 @@
 {
-  "name": "esling-config-js",
+  "name": "eslint-config-js",
   "version": "1.0.0",
   "description": "My own eslint setting, which i use in js projects.",
   "main": "index.js",
