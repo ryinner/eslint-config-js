@@ -25,5 +25,8 @@
   "homepage": "https://github.com/ryinner/eslint-config-js#readme",
   "devDependencies": {
     "eslint": "^8.37.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/ryinner"
   }
 }
